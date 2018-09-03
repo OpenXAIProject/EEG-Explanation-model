@@ -3,7 +3,7 @@
 # CNN based LRP Method For EEG Classification and Visualization
 
 ### **CONTENT**
-> Convolutional neural network (CNN) based layerwise relevance propagation (LRP) method For EEG Classification and Visualization
+> Convolutional neural network (CNN) based layerwise relevance propagation (LRP) method for classifying and visualizing electroencephalography (EEG) signal
 
 ### **Reference**
 > heatmapping.org
