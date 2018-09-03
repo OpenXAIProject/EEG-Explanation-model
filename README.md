@@ -1,12 +1,9 @@
 <img src="http://xai.unist.ac.kr/static/img/logos/XAIC_logo.png" width="300" height="100">
 
-# Explaining and Visualizing Lung cancer classification
+# CNN based LRP Method For EEG Classification and Visualization
 
 ### **CONTENT**
-> CNN based LRP Method For EEG Classification and Visualization
-
-### **Dataset**
-> https://luna16.grand-challenge.org/download/
+> Convolutional neural network (CNN) based layerwise relevance propagation (LRP) method For EEG Classification and Visualization
 
 ### **Reference**
 > heatmapping.org
