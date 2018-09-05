@@ -1,9 +1,9 @@
 <img src="http://xai.unist.ac.kr/static/img/logos/XAIC_logo.png" width="300" height="100">
 
-# CNN based LRP Method For EEG Classification and Visualization
+# Classification and Explanation Model of Brain Signal based on Deep Learning Model
 
 ### **CONTENT**
-> Convolutional neural network (CNN) based layerwise relevance propagation (LRP) method for classifying and visualizing electroencephalography (EEG) signal
+> Classification and Explanation Model of Brain Signal based on Deep Learning Model
 
 ### **Reference**
 > heatmapping.org
