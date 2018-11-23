@@ -3,6 +3,9 @@
 ### **CONTENT**
 > Classification and Explanation Model of EEG Brain Signal based on Deep Learning Model
 
+### Dataset Reference
+For more detailed information and download, please refer to [the official website of BBCI Competition dataset](http://www.bbci.de/competition/iv/desc_2a.pdf)
+
 ## License
 [Apache License 2.0](https://github.com/OpenXAIProject/LRP-EEG/blob/master/LICENSE "Apache")
 
