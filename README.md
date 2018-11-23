@@ -3,9 +3,6 @@
 ### **CONTENT**
 > Classification and Explanation Model of EEG Brain Signal based on Deep Learning Model
 
-### **Reference**
-> <http://openXai.org>
-
 ## License
 [Apache License 2.0](https://github.com/OpenXAIProject/LRP-EEG/blob/master/LICENSE "Apache")
 
