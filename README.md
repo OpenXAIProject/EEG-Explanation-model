@@ -5,6 +5,9 @@ Python and matlab implementation for the classification and explanation of EEG b
 ## Dataset Reference
 For more detailed information and download, please refer to [the official website of BCI Competition dataset](http://www.bbci.de/competition/iv/)
 
+## Result
+<img src="https://github.com/OpenXAIProject/LRP-EEG/blob/master/Result.png"  width="800">
+
 ## License
 [Apache License 2.0](https://github.com/OpenXAIProject/LRP-EEG/blob/master/LICENSE "Apache")
 
