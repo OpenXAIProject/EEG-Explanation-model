@@ -2,7 +2,7 @@
 Python and matlab implementation for the classification and explanation of EEG brain signal based on CNN model.
 
 
-### Dataset Reference
+## Dataset Reference
 For more detailed information and download, please refer to [the official website of BCI Competition dataset](http://www.bbci.de/competition/iv/)
 
 ## License
