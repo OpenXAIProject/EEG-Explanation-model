@@ -1,7 +1,6 @@
 # Classification and Explanation Model of EEG Brain Signal based on Deep Learning Model
+Python and matlab implementation for the classification and explanation of EEG brain signal based on CNN model.
 
-### **CONTENT**
-> Classification and Explanation Model of EEG Brain Signal based on Deep Learning Model
 
 ### Dataset Reference
 For more detailed information and download, please refer to [the official website of BCI Competition dataset](http://www.bbci.de/competition/iv/)
