@@ -12,7 +12,7 @@ For more detailed information and download, please refer to [the official websit
 [Apache License 2.0](https://github.com/OpenXAIProject/LRP-EEG/blob/master/LICENSE "Apache")
 
 ## Contacts
-If you have any question, please contact Ji-Seon Bang (js_bang@korea.ac.kr, nin23bix@gmail.com).
+If you have any question, please contact Ji-Seon Bang (js_bang@korea.ac.kr).
 
 <br /> 
 <br />
